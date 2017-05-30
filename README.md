@@ -1,2 +1,2 @@
 # Clases_Proc_Imagenes
-Clases de Procesamiento digital de imágenes
+Clases de Procesamiento digital de imágenes usando Matlab.
